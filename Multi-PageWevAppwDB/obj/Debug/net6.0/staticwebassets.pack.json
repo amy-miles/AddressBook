@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Multi-PageWevAppwDB.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Multi-PageWevAppwDB.bundle.scp.css"
+      "Id": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AddressBook.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AddressBook.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\wwwroot\\css\\site.css",
@@ -581,20 +581,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Multi-PageWevAppwDB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.AddressBook.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Multi-PageWevAppwDB.props",
-      "PackagePath": "build\\Multi-PageWevAppwDB.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.AddressBook.props",
+      "PackagePath": "build\\AddressBook.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Multi-PageWevAppwDB.props",
-      "PackagePath": "buildMultiTargeting\\Multi-PageWevAppwDB.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.AddressBook.props",
+      "PackagePath": "buildMultiTargeting\\AddressBook.props"
     },
     {
-      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Multi-PageWevAppwDB.props",
-      "PackagePath": "buildTransitive\\Multi-PageWevAppwDB.props"
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.AddressBook.props",
+      "PackagePath": "buildTransitive\\AddressBook.props"
     }
   ],
   "ElementsToRemove": []

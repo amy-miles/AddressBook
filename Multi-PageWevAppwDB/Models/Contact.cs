@@ -17,7 +17,7 @@ namespace Multi_PageWevAppwDB.Models
         public string Address { get; set; } = string.Empty;
 
         [StringLength(100, ErrorMessage ="Note cannot exceed 100 characters.")]
-        public string Note { get; set; } = string.Empty;
+        public string? Note { get; set; } = string.Empty;
 
     }
 }

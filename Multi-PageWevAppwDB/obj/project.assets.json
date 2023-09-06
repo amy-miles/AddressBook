@@ -3514,9 +3514,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\Multi-PageWevAppwDB.csproj",
-      "projectName": "Multi-PageWevAppwDB",
-      "projectPath": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\Multi-PageWevAppwDB.csproj",
+      "projectUniqueName": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\AddressBook.csproj",
+      "projectName": "AddressBook",
+      "projectPath": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\AddressBook.csproj",
       "packagesPath": "C:\\Users\\almds\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\obj\\",
       "projectStyle": "PackageReference",

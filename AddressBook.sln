@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi-PageWevAppwDB", "Multi-PageWevAppwDB\Multi-PageWevAppwDB.csproj", "{8B3AEB28-7063-49A8-BDFB-CEBE8CDA6AD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddressBook", "Multi-PageWevAppwDB\AddressBook.csproj", "{8B3AEB28-7063-49A8-BDFB-CEBE8CDA6AD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

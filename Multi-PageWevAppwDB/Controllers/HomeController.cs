@@ -6,16 +6,16 @@ namespace Multi_PageWevAppwDB.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private ContactContext context { get; set; }
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
+        public HomeController(ContactContext ctx) => context = ctx;
 
         public IActionResult Index()
         {
-            return View();
+
+            var contact = context?.Contacts?.OrderBy(c => c.Name).ToList();
+
+            return View(contact);
         }
 
        

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRoM8QhszIRPdL2oJz54RTBMZC+cVHtNTOY3ujrgPxRnlmTh3qyAC2mv27jtWkianbYJHifpivzS7Lr0arRRiw==",
+  "dgSpecHash": "9OSqMfTnrnUdXjTg60Sai/iibYzb91ATZWKVql/PCjljj9+6kIlkIels90X+nSBwmVKgAkYLUZEQaCw1BGE50A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\Multi-PageWevAppwDB.csproj",
+  "projectFilePath": "C:\\Users\\almds\\source\\repos\\AddressBook\\Multi-PageWevAppwDB\\AddressBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\almds\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\almds\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
